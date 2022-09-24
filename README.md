@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AWESDUDEtheCOOL
-- 👀 I’m interested in scientific research programming (python, MatLab) and engineering
-- 🌱 I’m currently learning Chemistry & C
+- 👀 I’m interested in mechanical/electrical engineering and space technology
+- 🌱 I’m currently learning AP Physics C: E&M and AP Calc BC
 - 💞️ I’m looking to collaborate on scientific research
 - 📫 How to reach me: awesdudethecool@gmail.com
 
