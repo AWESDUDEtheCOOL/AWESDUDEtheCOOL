@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AWESDUDEtheCOOL
 - 👀 I’m interested in mechanical engineering and space technology
-- 🌱 I’m currently learning AP Physics C: E&M and AP Calc BC
-- 💞️ I’m looking to collaborate on scientific research
+- 💞️ I’m looking to collaborate on aerospace research
 - 📫 How to reach me: awesdudethecool@gmail.com
 
 <!---
