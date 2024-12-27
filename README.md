@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AWESDUDEtheCOOL
 - 👀 I’m interested in mechanical engineering and space technology
 - 💞️ I’m looking to collaborate on aerospace research
-- 📫 How to reach me: awesdudethecool@gmail.com
+- 📫 How to reach me: mcmatich@stanford.edu
 
 <!---
 AWESDUDEtheCOOL/AWESDUDEtheCOOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
