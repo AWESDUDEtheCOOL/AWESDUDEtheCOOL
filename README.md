@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AWESDUDEtheCOOL
 - 👀 I’m interested in mechanical engineering and space technology
-- 🌐 kc3wny.com
+- 🌐 [kc3wny.com](https://kc3wny.com)
 - 📫 How to reach me: mcmatich@gmail.com
 
 <!---
